@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/BaseLevel_HLOD0_Instancing.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/E/8H/IUDIWFMH0HMT95NL95CWW5.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalObjects__/BaseLevel/8/QJ/JDHW7VILW4ZWALA3DQE45A.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalObjects__/BaseLevel/B/PG/IIYHN2ITS8VWH3G2ZRYCFN.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalObjects__/BaseLevel/B/FU/5046D0QQQBPOLLOQ86U9UC.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/2/KI/IK9HUKNVSCZVP1BADDLRDX.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/E/LD/OH93P55UPX8TL6F81TPG6L.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/7/ME/FZGRBRCNTZ0XEQ9NJPA9M7.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/9/1Q/KID2PHHPJ7D2678YJFPT35.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/5/51/8AIPFZY8HUB6DMX7Z7WE1P.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/__ExternalActors__/BaseLevel/B/SN/1HVSPTWZHSQNCI86JU5XLM.uasset",
+				"D:/GithubRepos/Gravity-Shooter/MyProject/Content/BaseLevel.umap"
+			]
+		}
+	]
+}
